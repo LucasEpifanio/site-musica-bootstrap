@@ -1,0 +1,206 @@
+.navbar-brand {
+    font-family: CinzelDecorative-Regular;
+    color: rgb(236, 198, 29);
+}
+
+.navbar-brand:hover {
+    color: rgb(244, 217, 100);
+}
+
+.nav-link {
+    color: rgb(198, 200, 201);
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: rgb(236, 198, 29);
+}
+
+@font-face {
+    font-family: CinzelDecorative-Regular;
+    src: url(Fontes/CinzelDecorative-Regular.ttf);
+}
+
+
+.btn-outline-light {
+    position: absolute;
+    right: -10px;
+    top: -65px;
+    font-size: 25px;
+    font-family: monospace;
+    font-style: italic;
+
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(236, 198, 29);
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+h5 {
+    color: black;
+}
+
+.list-group-item {
+    color: black;
+    font-weight: bold;
+}
+
+.card-link {
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card-link:hover {
+    color: rgb(215, 179, 19);
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(236, 198, 29);
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+h6 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+div.gallery {
+    float: center;
+    opacity: 0.9;
+    box-shadow: 0px 0px 0px 6px black;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    width: 300px;
+}
+
+div.gallery:hover {
+    box-shadow: 0px 0px 0px 8px black;
+    opacity: 1;
+}
+
+div.gallery img {
+    float: center;
+    height: 350px;
+    width: 300px;
+}
+
+div.desc {
+    padding: 12px;
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+#footer {
+    background-color: rgb(31, 31, 31);
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+#footer-2 {
+    background-color: rgb(224, 188, 28);
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.col-sm-12 {
+    color: white;
+    text-align: center;
+}
+
+.col-sm-6 {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.fa-facebook {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.fa-facebook:hover {
+    color: #2e66e0;
+}
+
+.fa-instagram {
+    color: white;
+    font-size: 22px;
+}
+
+.fa-instagram:hover {
+    color: #dd2a7b;
+}
+
+.fa-twitter {
+    color: white;
+    font-size: 22px;
+}
+
+.fa-twitter:hover {
+    color: #00acee;
+}
+
+.container-fluid p3 {
+    color: white;
+    font-family: monospace;
+}
+
+.container-fluid P3:hover {
+    color: #c8c8c8;
+}
+
+.fa-envelope-circle-check {
+    color: white;
+}
+
+.fa-envelope-circle-check:hover {
+    color: #c8c8c8;
+}
+
+.politica {
+    color: white;
+    text-decoration: none;
+}
+
+.politica:hover {
+    color: #c8c8c8;
+}
+
+#social {
+    text-align: right;
+    margin-bottom: 60px;
+}
+
+#politica {
+    text-align: right;
+}
